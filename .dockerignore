@@ -1,0 +1,10 @@
+**/.git
+**/node_modules
+**/*.log
+**/tmp
+**/data
+**/build
+**/dist
+media/
+static/
+tests/
